@@ -2,7 +2,7 @@
 
 int main()
 {
-    float A,B,MEDIA;
+    float A, B, MEDIA;
 
     scanf("%f%f", &A, &B);
 
